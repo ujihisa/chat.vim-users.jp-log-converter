@@ -1,4 +1,5 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env spec
+# encoding: utf-8
 # Misc. initialization  #{{{1
 
 require 'converter'
